@@ -1,6 +1,6 @@
 - 👋 Sean Hii Jun Wei | Malaysia
 - 👀 Year 4 Semester 2 Bachelor of Software Engineering in Monash University Malaysia
-- 🌱 Tech Stack: Python, Java, JS, HTML, CSS, Flutter, Kotlin
-- 💞️ Intern at Setel Ventures
+- 🌱 Tech Stack: Python, Java, JS, HTML, CSS, Flutter, Kotlin, Typescript, GraphQL, Prisma OEM, PostgresQL, React.js
+- 💞️ Ex Intern at Setel Ventures | Contract Software Enginner at eMason Solutions
 - 📫 How to reach me: shii0001@student.monash.edu
 - Product: https://www.responsibleborneo.com
